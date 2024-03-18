@@ -1,0 +1,8 @@
+# ignoring readme.txt
+readme.txt
+
+# ignoring file copy
+*.~*
+
+# ignoring all files in /build folder
+build/
